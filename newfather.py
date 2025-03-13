@@ -177,7 +177,7 @@ logger = logging.getLogger(__name__)
 
 # Bot configuration
 BOT_TOKEN = '7608806197:AAGssF78kOHqmSlSgXdwUaCJN5V2Va6qFeU'
-ADMIN_GROUP_ID = -1001948236041
+ADMIN_GROUP_ID = -1002095036242
 AUTHORIZED_USERS = {6840212721,1214170912}
 
 # Data structures
